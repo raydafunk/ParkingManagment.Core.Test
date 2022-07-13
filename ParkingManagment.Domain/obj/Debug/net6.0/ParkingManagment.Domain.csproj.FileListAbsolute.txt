@@ -1,0 +1,12 @@
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ParkingManagment.Domain.csproj.AssemblyReference.cache
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ParkingManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ParkingManagment.Domain.AssemblyInfoInputs.cache
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ParkingManagment.Domain.AssemblyInfo.cs
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ParkingManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ParkingManagment.Domain\bin\Debug\net6.0\ParkingManagment.Domain.deps.json
+C:\Projects\ParkingManagment.Domain\bin\Debug\net6.0\ParkingManagment.Domain.dll
+C:\Projects\ParkingManagment.Domain\bin\Debug\net6.0\ParkingManagment.Domain.pdb
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ParkingManagment.Domain.dll
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\refint\ParkingManagment.Domain.dll
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ParkingManagment.Domain.pdb
+C:\Projects\ParkingManagment.Domain\obj\Debug\net6.0\ref\ParkingManagment.Domain.dll
