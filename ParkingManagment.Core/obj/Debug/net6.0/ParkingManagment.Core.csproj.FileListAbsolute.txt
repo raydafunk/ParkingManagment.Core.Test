@@ -1,0 +1,15 @@
+C:\Projects\ParkingManagment.Core\bin\Debug\net6.0\ParkingManagment.Core.deps.json
+C:\Projects\ParkingManagment.Core\bin\Debug\net6.0\ParkingManagment.Core.dll
+C:\Projects\ParkingManagment.Core\bin\Debug\net6.0\ParkingManagment.Core.pdb
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.csproj.AssemblyReference.cache
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.AssemblyInfoInputs.cache
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.AssemblyInfo.cs
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.csproj.CoreCompileInputs.cache
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.dll
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\refint\ParkingManagment.Core.dll
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.pdb
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ref\ParkingManagment.Core.dll
+C:\Projects\ParkingManagment.Core\bin\Debug\net6.0\ParkingManagment.Domain.dll
+C:\Projects\ParkingManagment.Core\bin\Debug\net6.0\ParkingManagment.Domain.pdb
+C:\Projects\ParkingManagment.Core\obj\Debug\net6.0\ParkingManagment.Core.csproj.CopyComplete
